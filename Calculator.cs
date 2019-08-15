@@ -1,15 +1,14 @@
 ﻿using System; 
 using System.Text; 
-
 /* Title: Calculator    
-   By: Yusuf Othman */  
+      By: Yusuf Othman **/  
 class Calculator { 
 /// <summary>     
-/// This is the entry point.     
+/// This is the entry point.                        
 /// </summary>     
 static void Main(string[] args){ 
     char firstChar = 'Q';         
-    bool keepRunning = true; 
+    bool keepRunning = true;    
      do{             
          Console.WriteLine();             
          Console.Write("What do you want to do? (Add, Subtract, Multiply, Divide, Quit): ");             
@@ -32,29 +31,26 @@ static void Main(string[] args){
                 case 'a':                 
                 case 'A':                     
                 result = firstNumber + secondNumber;                     
-                break; 
-                
+            break; 
                 case 's':                 
                 case 'S':                     
                 result = firstNumber - +secondNumber;                     
-                break;                 
-                
+            break;                 
                 case 'm':                 
                 case 'M':                     
                 result = firstNumber * secondNumber;                     
-                break;                 
+            break;                 
                 case 'd':                 
                 case 'D':                     
                 result = firstNumber / secondNumber;                     
-                break;                 
-                
+            break;                 
                 default:                     
                 result = -1;                     
                 break;             
                 } 
             Console.WriteLine();             
             Console.WriteLine("Your result is " + result);
-            } 
+        } 
             while (keepRunning);
        } 
  }
