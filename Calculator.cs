@@ -1,12 +1,12 @@
 ﻿using System; 
 using System.Text; 
 /* Title: Calculator    
-      By: Yusuf Othman **/  
+ Made By: Yusuf Othman **/  
 class Calculator { 
 /// <summary>     
 /// This is the entry point.                        
 /// </summary>     
-static void Main(string[] args){ 
+public static void Main(string[] args){ 
     char firstChar = 'Q';         
     bool keepRunning = true;    
      do{             
