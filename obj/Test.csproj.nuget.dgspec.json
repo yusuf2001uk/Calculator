@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\github\\Test.csproj": {}
+    "C:\\github\\Test.csproj": {}
   },
   "projects": {
-    "c:\\github\\Test.csproj": {
+    "C:\\github\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\github\\Test.csproj",
+        "projectUniqueName": "C:\\github\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "c:\\github\\Test.csproj",
+        "projectPath": "C:\\github\\Test.csproj",
         "packagesPath": "C:\\Users\\surepc\\.nuget\\packages\\",
-        "outputPath": "c:\\github\\obj\\",
+        "outputPath": "C:\\github\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

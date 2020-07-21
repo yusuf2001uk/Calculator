@@ -9,3 +9,9 @@ C:\Users\surepc\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
 C:\Users\surepc\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
 C:\Users\surepc\Test\obj\Debug\netcoreapp2.2\Test.dll
 C:\Users\surepc\Test\obj\Debug\netcoreapp2.2\Test.pdb
+C:\github\obj\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
+C:\github\obj\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+C:\github\obj\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+C:\github\obj\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
+C:\github\obj\Debug\netcoreapp2.2\Test.dll
+C:\github\obj\Debug\netcoreapp2.2\Test.pdb
