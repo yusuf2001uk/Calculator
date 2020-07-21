@@ -23,7 +23,7 @@ public static void Main(string[] args){
               string firstNumberInput = Console.ReadLine();                 
               firstNumber = double.Parse(firstNumberInput); 
               Console.Write("Second Number: ");                 
-              string secondNumberInput = Console.jnjn,mn,mn,mn,mn,m();                 
+              string secondNumberInput = Console.ReadLine();                 
               secondNumber = double.Parse(secondNumberInput);             
               } 
             double result = 0;   
