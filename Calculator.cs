@@ -11,7 +11,7 @@ public static void Main(string[] args){
     bool keepRunning = true;    
      do{             
          Console.WriteLine();             
-         Console.Write("What do you want to do? (Add, Subtract, Multiply, Divide, Quit): ");             
+         Console.Write("What do you want to do? (Add, Subtract, Multiply, Divide, Quit):");             
          string input = Console.ReadLine();             
          firstChar = input[0];
          // This is used in both the if statement and the do-while loop.             
